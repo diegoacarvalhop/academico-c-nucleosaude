@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\academico_c_nucleosaude.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\ar.exe cr CMakeFiles\academico_c_nucleosaude.dir/objects.a @CMakeFiles\academico_c_nucleosaude.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\academico_c_nucleosaude.dir/objects.a -Wl,--no-whole-archive -o academico_c_nucleosaude.exe -Wl,--out-implib,libacademico_c_nucleosaude.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\academico_c_nucleosaude.dir\linklibs.rsp

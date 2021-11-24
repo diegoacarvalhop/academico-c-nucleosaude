@@ -1,0 +1,3 @@
+C:/Faculdade/C/academico-c-nucleosaude/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Faculdade/C/academico-c-nucleosaude/cmake-build-debug/CMakeFiles/academico_c_nucleosaude.dir
+C:/Faculdade/C/academico-c-nucleosaude/cmake-build-debug/CMakeFiles/rebuild_cache.dir
